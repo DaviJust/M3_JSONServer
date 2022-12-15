@@ -1,5 +1,5 @@
 {
-    "name": "livraria",
+    "name": "hamburgueria",
     "version": "1.0.0",
     "description": "Trabalho Individual",
     "main": "index.js",
@@ -7,7 +7,7 @@
     "scripts": {
       "start": "node server.js"
     },
-    "author": "PedroVaillant",
+    "author": "davijustino",
     "license": "ISC",
     "dependencies": {
       "json-server": "^0.17.0"
