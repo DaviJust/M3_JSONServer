@@ -1,20 +1,15 @@
-const server = jsonServer.create();
-const router = jsonServer.router('db.json'); 
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3200; 
-
-server.use(middlewares);
-server.use(router);
-
-server.listen(port);
-
-db.json
 {
-  "notas": [
-    {
-      "id": 1,
-      "titulo": "Estudar JS",
-      "status": true
+    "name": "hamburguer",
+    "version": "1.0.0",
+    "description": "trabalhoindividual",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "davijust",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.17.0"
     }
-  ]
-}
+  }
