@@ -1,15 +1,3 @@
 {
-    "name": "livraria",
-    "version": "1.0.0",
-    "description": "Trabalho Individual",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "author": "PedroVaillant",
-    "license": "ISC",
-    "dependencies": {
-      "json-server": "^0.17.0"
-    }
-  }
+  "type": "module"
+}
