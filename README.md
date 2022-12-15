@@ -1,6 +1,6 @@
-# >🍔Trabalho M3 - Indivudual: Hamburgueria
+#🍔Trabalho M3 - Indivudual: Hamburgueria
 <img src="https://images.unsplash.com/photo-1586816001966-79b736744398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500px" height="300px"/>
-<h1>>🍔Site De Hamburgueria usando Node & Render>🍔</h1>
+<h1>🍔Site De Hamburgueria usando Node & Render>🍔</h1>
 
 ## Sobre o projeto
 <a>🍔Objetivo: Criar uma pagina usando Node e JSON para interoperabilidade, apos isso subir no sistema, criar rotas com os produtos da loja. O tipo de loja escolhida foi hamburgueria
@@ -16,5 +16,5 @@
 <p><i>🍟Necessario para subir a pagina</i><p>
 <img align="center" src="https://img.shields.io/badge/-Render-purple" width="60"/>
 
-<p><i>🥤Site:https://jsonservermoduloo3.onrender.com</i><p>
+<p><i>🥤Site:</i></p> https://jsonservermoduloo3.onrender.com
 <img src="https://images.unsplash.com/photo-1586816001966-79b736744398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500px" height="300px"/>
